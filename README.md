@@ -6,7 +6,8 @@ This repository contains the following work:
 
 2. gives two ways of atommaping, the indigo and the RXNMapper (https://github.com/rxn4chemistry/rxnmapper);
 
-3. constructs a new retrosynthesis model using the open-source RDChiral wrapper for RDKit (https://github.com/connorcoley/rdchiral) and presents its top-n accurary training on data_processed_USPTO acquired from retrosim (https://github.com/connorcoley/retrosim/blob/master/retrosim/data/data_processed.csv);
+3. constructs a new retrosynthesis model using the open-source RDChiral wrapper for RDKit (https://github.com/connorcoley/rdchiral) 
+   and presents its top-n accurary training on data_processed_USPTO acquired from retrosim      (https://github.com/connorcoley/retrosim/blob/master/retrosim/data/data_processed.csv);
 
 4. provides the data on explosives reactions collected from Reaxys (mainly) and other scientific literatures. The name of corresponding explosives is also provided to enable that we can add more explosive reactions about other explosives later.
 
